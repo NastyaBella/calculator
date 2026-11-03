@@ -1,0 +1,6 @@
+C:\Users\panfa\source\repos\ProjectCalculator\ProjectCalculator\x64\Debug\ProjectCalculator.vcxproj.AssemblyReference.cache
+C:\Users\panfa\source\repos\ProjectCalculator\ProjectCalculator\x64\Debug\ProjectCalculator.MyForm.resources
+C:\Users\panfa\source\repos\ProjectCalculator\ProjectCalculator\x64\Debug\ProjectCalculator.vcxproj.GenerateResource.cache
+C:\Users\panfa\OneDrive\Рабочий стол\Калькулятор с++\ProjectCalculator\x64\Debug\ProjectCalculator.vcxproj.AssemblyReference.cache
+C:\Users\panfa\OneDrive\Рабочий стол\Калькулятор с++\ProjectCalculator\x64\Debug\ProjectCalculator.MyForm.resources
+C:\Users\panfa\OneDrive\Рабочий стол\Калькулятор с++\ProjectCalculator\x64\Debug\ProjectCalculator.vcxproj.GenerateResource.cache

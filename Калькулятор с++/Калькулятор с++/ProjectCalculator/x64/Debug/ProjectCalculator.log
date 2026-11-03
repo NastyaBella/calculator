@@ -1,0 +1,15 @@
+﻿  MyForm.cpp
+C:\Users\panfa\OneDrive\Рабочий стол\Калькулятор с++\ProjectCalculator\MyForm.h(585,46): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\panfa\OneDrive\Рабочий стол\Калькулятор с++\ProjectCalculator\MyForm.h(593,16): warning C4244: инициализация: преобразование "int" в "float", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\panfa\OneDrive\Рабочий стол\Калькулятор с++\ProjectCalculator\MyForm.h(626,11): warning C4244: инициализация: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+C:\Users\panfa\OneDrive\Рабочий стол\Калькулятор с++\ProjectCalculator\MyForm.h(642,34): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+  (компиляция исходного файла "MyForm.cpp")
+  
+  MyForm.obj : обнаружен модуль MSIL; для MSIL последовательная компоновка отключена; выполняется полная компоновка
+  ProjectCalculator.vcxproj -> C:\Users\panfa\OneDrive\Рабочий стол\Калькулятор с++\x64\Debug\ProjectCalculator.exe
